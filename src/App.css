@@ -4,7 +4,7 @@ body{
 
 .navbar{
     width: 100%;
-    position: fixed;
+    /* position: fixed; */
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -25,3 +25,20 @@ body{
     text-decoration: none;
 }
 
+.sbclass img {
+    width: 50px;
+    height: auto;
+}
+
+#socialrow {
+    padding-left: 20px;
+    float: top;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}

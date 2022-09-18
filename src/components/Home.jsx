@@ -1,6 +1,9 @@
+import Socials from './Socials'
+
 const Home = () => {
   return (
     <div className="home">
+      <Socials />
       <div>
         <img
           style={{ display: 'block', maxWidth: '100%' }}
