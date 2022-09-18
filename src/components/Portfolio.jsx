@@ -1,7 +1,7 @@
 const Portfolio = () => {
   return (
     <div className="portfolio">
-      <h1>Portfolio page</h1>
+      <h1>Portfolio</h1>
       <div className="projects">
         <div className="project-card">
           <h3>Stonks Trader</h3>

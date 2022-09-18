@@ -1,14 +1,12 @@
 const About = () => {
-
-    return (
-      <div className="about">
-        <div>
-         <h1>About page</h1>
-        </div>
-        
+  return (
+    <div className="about">
+      <div>
+        <h1>About Me</h1>
+        <h3></h3>
       </div>
-    )
-  }
-  
-  export default About
-  
+    </div>
+  )
+}
+
+export default About

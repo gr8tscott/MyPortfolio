@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(31, 206, 206);
+}
+
+.navbar{
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    top: 0;
+    right: 0;
+    height: 50px;
+    font-family: "Jost",sans-serif;
+    background-color:aliceblue;
+    z-index: 5;
+    text-decoration: none;
+}
+
+.nav{
+    margin-right: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #aa9b92;
+    text-decoration: none;
+}
+
