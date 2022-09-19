@@ -2,6 +2,9 @@ body{
     background-color: rgb(31, 206, 206);
 }
 
+.about-header{
+    text-align: center;
+}
 .navbar{
     width: 100%;
     /* position: fixed; */
