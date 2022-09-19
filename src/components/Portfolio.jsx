@@ -3,7 +3,9 @@ const Portfolio = () => {
     <div className="portfolio">
       <div className="projects-all">
         <div className="project-card">
-          <div className="project-title">Stonks Trader</div>
+          <div className="project-title">
+            <h3>Stonks Trader</h3>
+          </div>
           <div className="project-container reverse">
             <p className="project-description">
               A stock research app utilizing a realtime data stock market API
@@ -18,13 +20,11 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              {' '}
               <a className="here" href="https://techtinder.herokuapp.com/">
                 Deployed App
               </a>
             </p>
             <p className="githubLink">
-              {' '}
               <a
                 className="here"
                 href="https://github.com/gr8tscott/MattTrader"
@@ -33,7 +33,6 @@ const Portfolio = () => {
               </a>
             </p>
             <p className="githubLink">
-              {' '}
               <a
                 className="here"
                 href="https://github.com/gr8tscott/Stonks-Trader-Backend"
@@ -61,13 +60,11 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              {' '}
               <a className="here" href="https://techtinder.herokuapp.com/">
                 Deployed App
               </a>
             </p>
             <p className="githubLink">
-              {' '}
               <a
                 className="here"
                 href="https://github.com/anovick1/Tech-Tinder-Front"
@@ -76,7 +73,6 @@ const Portfolio = () => {
               </a>
             </p>
             <p className="githubLink">
-              {' '}
               <a
                 className="here"
                 href="https://github.com/anovick1/Tech-Tinder-Backend"
@@ -104,13 +100,11 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              {' '}
               <a className="here" href="https://weebmanga.herokuapp.com/">
                 Deployed App
               </a>
             </p>
             <p className="githublink">
-              {' '}
               <a className="here" href="https://github.com/gr8tscott/WeebManga">
                 GitHub
               </a>
@@ -134,13 +128,11 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              {' '}
               <a className="here" href="https://matts-blackjack.surge.sh/">
                 Deployed App
               </a>
             </p>
             <p className="githublink">
-              {' '}
               <a className="here" href="https://github.com/gr8tscott/Blackjack">
                 GitHub
               </a>
