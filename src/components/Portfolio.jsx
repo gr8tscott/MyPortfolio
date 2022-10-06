@@ -20,7 +20,10 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              <a className="here" href="https://techtinder.herokuapp.com/">
+              <a
+                className="here"
+                href="https://stonkstrader-final.web.app/portfolio"
+              >
                 Deployed App
               </a>
             </p>
