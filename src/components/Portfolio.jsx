@@ -20,17 +20,14 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              <a
-                className="here"
-                href="https://stonkstrader-final.web.app/portfolio"
-              >
+              <a className="here" href="https://stonkstrader3.web.app/">
                 Deployed App
               </a>
             </p>
             <p className="githubLink">
               <a
                 className="here"
-                href="https://github.com/gr8tscott/MattTrader"
+                href="https://github.com/gr8tscott/StonksTrader"
               >
                 GitHub Frontend
               </a>
@@ -63,7 +60,7 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              <a className="here" href="https://techtinder.herokuapp.com/">
+              <a className="here" href="https://d2lngctsow99sp.cloudfront.net/">
                 Deployed App
               </a>
             </p>
