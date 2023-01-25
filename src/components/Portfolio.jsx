@@ -100,7 +100,7 @@ const Portfolio = () => {
           </div>
           <div className="project-links">
             <p className="deployedLink">
-              <a className="here" href="https://weebmanga.herokuapp.com/">
+              <a className="here" href="https://weebmanga1.herokuapp.com/">
                 Deployed App
               </a>
             </p>
